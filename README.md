@@ -1,4 +1,4 @@
-### Setting Up the Project
+## Setting Up the Project
 1. After cloning the project open it up in the Compiler.
 2. Press the combination of `Ctrl+j` or open the terminal from the upper "main menu" -> "Terminal" -> "new Terminal".
 3. First, make sure you have virtualenv installed. If not, install it using command:
