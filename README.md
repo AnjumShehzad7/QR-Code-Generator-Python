@@ -6,8 +6,7 @@
    '''virtualenv virtual-environment'''
 5. This will create a new directory named 'virtual-environment' in your current directory, which will contain the virtual environment.
 6. Activate the virtual environment by the following command:
-    # On Windows:
-   '''virtual-environment\Scripts\activate'''
+   'virtual-environment\Scripts\activate'
 7. After activating the virtual environment, you should see the name of the environment in your command prompt or terminal, 
    indicating that you are now working within the virtual environment.
 8. Now Install the module using the command in the terminal:
